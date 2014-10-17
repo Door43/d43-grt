@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[grt:home|Door43 (grt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-grt|d43-grt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-grt/archive/master.zip|d43-grt.zip]]
+
+**Recent Changes**
+{{changes>ns = grt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/grt|Ethnologue data]]
+
